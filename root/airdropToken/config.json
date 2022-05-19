@@ -13,6 +13,7 @@
     "buttonLink": "https://google.com",
     "buttonTarget": "_blank",
     "contract": "0x354E725664E83755FE6c9653D45d0acc7650d62b",
+    "isCheckWhiteList": 0,
     "reward": {
       "rareTitle": "Legendary",
       "cover": "/images/chests/chests-legendary.png"
